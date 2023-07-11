@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><b>Hi , I'm Kutay Sarı</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sena Eser </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Front-End+Developer;Active+Learner/Researcher,Love+to+learn+new+stuffs..<3"></a>
@@ -18,9 +18,8 @@
 
 <br>
 
-- I'm currently learning Rust, React.js, Next.js and Blockchain Technology
+- I'm currently learning React.js and Blockchain Technology
 - I'm a developer in the Yıldız Blockchain Community
-- I also work as a developer at Akbank
 
 <br><br>
 
@@ -33,11 +32,9 @@
 
 - **Languages**:
 	
-    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/python.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/rust.svg" alt="kutaysari" height="30" width="40" /></a>
+    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="senaeser" height="30" width="40" /></a>
 	
 	
 	
@@ -46,13 +43,11 @@
     
 - **Front-End Development**:
 
-   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://redux-toolkit.js.org/tutorials/quick-start" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/redux.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://nextjs.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/StaticSiteGenerators/nextjs.svg" alt="kutaysari" height="30" width="40" /></a>
-    
+   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://redux-toolkit.js.org/tutorials/quick-start" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/redux.svg" alt="senaeser" height="30" width="40" /></a>
+	<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="senaeser" height="30" width="40" /></a>
 
 <br>
 
@@ -72,45 +67,27 @@
 
 <ul>
 	<li>
-<a href="mailto:h.kutay.1@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kutaysari" height="24" width="36">
+<a href="mailto:sena.eser1@std.yildiz.edu.tr" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="senaeser" height="24" width="36">
 </a>
 </li>
 <br>
 <li>
-<a href="https://www.linkedin.com/in/hasan-kutay-sar%C4%B1-0a5048223/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kutaysari" height="30" width="40">
+<a href="https://www.linkedin.com/in/sena-eser1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senaeser" height="30" width="40">
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="https://twitter.com/KutaySar7" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" alt="kutaysari" height="30" width="40">
-</a>
-</li>
 
 <br>
 <li>
-<a href="https://www.instagram.com/kutaaysari" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="kutaysari" height="30" width="40">
+<a href="https://www.instagram.com/senaseser" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="senaeser" height="30" width="40">
 </a>
 </li>
-	<br>
-	<li>
-<a href="https://discordapp.com/users/325229060332716033" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="kutaysari" height="30" width="40">
-</a>
-</li>
-<li>
-		
-<a href="https://www.hackerrank.com/h_kutay_1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"></a>
-</li>
-<li>
-		
-<a href="https://leetcode.com/kutaysari"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/leet-code.svg" alt="hackerrank" height="30" width="40"></a>
-</li>
+<br>
+
+
 	
 </ul>
 </div>
@@ -123,7 +100,7 @@
 
 
 <!--
-**KkutaySarii/KkutaySarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

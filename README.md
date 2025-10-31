@@ -33,12 +33,30 @@
 
 - **Languages**:
 	
-    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="senaeser" height="30" width="40" /></a>
-	   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="senaeser" height="30" width="40" /></a>
+<a href="https://devdocs.io/c/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://www.javascript.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://tr.wikipedia.org/wiki/HTML" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://tr.wikipedia.org/wiki/CSS" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://reactjs.org/tutorial/tutorial.html" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://www.python.org/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/python.svg" alt="senaeser" height="30" width="40" />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Database/mysql.svg" alt="senaeser" height="30" width="40" />
+</a>
 
 	
 	

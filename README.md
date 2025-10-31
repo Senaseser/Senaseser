@@ -39,9 +39,7 @@
 	   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="senaeser" height="30" width="40" /></a>
 	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="senaeser" height="30" width="40" /></a>
 	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://redux-toolkit.js.org/tutorials/quick-start" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/redux.svg" alt="senaeser" height="30" width="40" /></a>
-	<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="senaeser" height="30" width="40" /></a>
-	
+
 	
 	
 

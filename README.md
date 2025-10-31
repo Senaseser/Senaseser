@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi , I'm Sena Eser </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Front-End+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineer;"></a>
 </p>
 
 
@@ -18,8 +18,9 @@
 
 <br>
 
-- I'm currently learning React.js and Blockchain Technology
-- I'm a developer in the Yıldız Blockchain Community
+- Computer Engineer at Yıldız Technical University 
+- Experienced in full-stack and data-driven development using JavaScript, TypeScript, SQL, and Python
+- Passionate about AI, Blockchain, and turning data into meaningful insights
 
 <br><br>
 
@@ -67,7 +68,7 @@
 
 <ul>
 	<li>
-<a href="mailto:sena.eser1@std.yildiz.edu.tr" target="_blank">
+<a href="mailto:sena.eser02@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="senaeser" height="24" width="36">
 </a>
 </li>
